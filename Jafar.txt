@@ -1,3 +1,5 @@
 Marks for Jafar
+maths_marks
 math marks - 98
 science marks - 99
+main
